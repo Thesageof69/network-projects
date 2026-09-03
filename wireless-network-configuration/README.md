@@ -55,9 +55,6 @@ The completed configuration was tested by confirming that:
 - Clients could open a browser connection to the network server.
 - The laptop could access the WAP management interface remotely through its LAN router address.
 
-## Add the Packet Tracer file
-
-Place the topology file in the `packet-tracer/` folder using the suggested filename `secure-wireless-network-configuration.pkt`. GitHub can store `.pkt` files but does not preview them; download the file and open it using Cisco Packet Tracer.
 
 ## Skills demonstrated
 
