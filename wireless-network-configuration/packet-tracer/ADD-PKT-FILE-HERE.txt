@@ -1,5 +1,0 @@
-Add the Cisco Packet Tracer .pkt topology file to this folder.
-
-Suggested file name: secure-wireless-network-configuration.pkt
-
-GitHub stores .pkt files but does not preview them in the browser. Download the file and open it with Cisco Packet Tracer.
